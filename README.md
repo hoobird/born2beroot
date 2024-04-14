@@ -21,7 +21,7 @@ Set up your first server with specific rules:
 - Implement user management and sudo configuration.
 - Develop a monitoring script to display system information periodically. (CRON)
 
-~~## Bonus Part~~
+## ~~Bonus Part~~
 
 ~~Complete additional tasks if the mandatory part is perfect:~~
 - ~~Set up partitions correctly.~~
