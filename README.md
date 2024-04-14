@@ -8,7 +8,7 @@ The project introduces virtualization concepts by setting up a server with speci
 
 ## General Guidelines
 
-- VirtualBox or UTM usage is mandatory.
+- VirtualBox or ~~UTM~~ usage is mandatory.
 - Turn in a `signature.txt` file containing the signature of your machine’s virtual disk.
 - (This repository doesn't contain the a copy of the virtual machine due to its large size)
 
